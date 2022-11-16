@@ -1,0 +1,2 @@
+. extension edi
+check for tetch command
